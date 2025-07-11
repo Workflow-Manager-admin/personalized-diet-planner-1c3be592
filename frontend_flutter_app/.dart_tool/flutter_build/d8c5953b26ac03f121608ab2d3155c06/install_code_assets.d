@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/personalized-diet-planner-1c3be592/frontend_flutter_app/.dart_tool/flutter_build/d8c5953b26ac03f121608ab2d3155c06/native_assets.json: 
